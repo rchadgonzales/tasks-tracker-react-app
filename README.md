@@ -68,3 +68,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#
+
+#
+
+# React Crash Course (Task Tracker App)
+
+This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
+
+## Usage
+
+### Install dependencies
+
+```
+npm install
+```
+
+### Run React dev server (http://localhost:3000)
+
+```
+npm start
+```
+
+### Run the JSON server (http://localhost:5000)
+
+```
+npm run server
+```
+
+### To build for production
+
+```
+npm run build
+```

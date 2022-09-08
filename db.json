@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Create Tasks Tracker",
+      "day": "Sept. 8th at 1:00PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Eat Dinner",
+      "day": "Sept. 8th at 6:00PM",
+      "reminder": true
+    },
+    {
+      "text": "Create Tasks Tracker",
+      "day": "Sept. 9th at 1:00PM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Finish Creating Tasks Tracker",
+      "day": "Sept. 8th at 10:30PM",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
